@@ -17,7 +17,7 @@ Use this to provide a simple contact form on your own website, and send the mess
 
 ### How to get your SMTP credentials
 
-To be able to send messages with this contact form, you'll need a working SMTP service. InfinityFree does not provide this with free hosting, but you can use third party SMTP services.
+To be able to send messages with this contact form, you'll need a working SMTP service. RoyalityFree does not provide this with free hosting, but you can use third party SMTP services.
 
 A simple, free option to use is Gmail. You can use Gmail to send your messages like so:
 
